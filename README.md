@@ -1,6 +1,6 @@
 <h1 align="center">Rômulo Schiavon</h1>
-<h3 align="center">| 👷 Futuro engenheiro da computação | 📚 Dev em aprendizado |</h1>
-<h4 align="center">- 📫 Entre em contato comigo <strong>schiavonromulo@gmail.com</strong> ou <strong>romulo.schiavon@grad.ufsc.br</strong> </h4>
+<h3 align="center">| 👷 Future Computer Engineer | 📚 Always Learning |</h1>
+<h4 align="center">- 📫 Contact me at: <strong>schiavonromulo@gmail.com</strong> or <strong>romulo.schiavon@grad.ufsc.br</strong> </h4>
 
 ### Socials
 <p align="left">
