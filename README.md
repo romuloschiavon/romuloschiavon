@@ -2,7 +2,7 @@
 <h3 align="center">| 👷 Futuro engenheiro da computação | 📚 Dev em aprendizado |</h1>
 <h4 align="center">- 📫 Entre em contato comigo <strong>schiavonromulo@gmail.com</strong> ou <strong>romulo.schiavon@grad.ufsc.br</strong> </h4>
 
-<h3 align="left">Socials:</h3>
+### Socials
 <p align="left">
   <a href="https://twitter.com/romuloschiavon" target="blank">
     <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="romuloschiavon" height="30" width="30" />
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">Knowledge:</h3>
+### Knowledge
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   alt="python" width="40" height="40"/>
