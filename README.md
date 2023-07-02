@@ -1,4 +1,4 @@
-<h1 align="center">Rômulo Schiavon</h1>
+<h1 align="center">Rômulo E. M. Schiavon</h1>
 <h3 align="center">| 👷 Future Computer Engineer | Data Engineer </h3>
 <h4 align="center">- 📫 Contact me at: <strong>schiavonromulo@gmail.com</strong> or <strong>romulo.schiavon@grad.ufsc.br</strong> </h4>
 
